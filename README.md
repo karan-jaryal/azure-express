@@ -5,7 +5,7 @@ This project serves as the serverless API system for Demo. The API is designed a
 ## Requirements
 
 1. [AzureFunctions](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurefunctions)
-3. [NodeJS](https://nodejs.org/en/) `> 8.10`
+3. [NodeJS](https://nodejs.org/en/) `> 10`
 
 
 
