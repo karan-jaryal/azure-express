@@ -1,0 +1,16 @@
+{
+  "name": "azure",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"No tests yet...\""
+  },
+  "dependencies": {
+    "durable-functions": "^1.4.4",
+    "header-case-normalizer": "^1.0.3",
+    "lib": "file:lib",
+    "lodash": "^4.17.20",
+    "moment": "^2.29.1"
+  },
+  "devDependencies": {}
+}
